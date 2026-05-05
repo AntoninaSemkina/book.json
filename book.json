@@ -1,0 +1,32 @@
+[
+  {
+    "id": "book-001",
+    "title": "Мастер и Маргарита",
+    "author": "Михаил Булгаков",
+    "year": "1967",
+    "cover": "https://static.tildacdn.com/path/master.jpg",
+    "category": "Классика",
+    "available": true,
+    "library": "Библиотека №197"
+  },
+  {
+    "id": "book-002",
+    "title": "Война и мир",
+    "author": "Лев Толстой",
+    "year": "1869",
+    "cover": "https://static.tildacdn.com/path/warpeace.jpg",
+    "category": "Классика",
+    "available": true,
+    "library": "Библиотека №76"
+  },
+  {
+    "id": "book-003",
+    "title": "Понедельник начинается в субботу",
+    "author": "Аркадий и Борис Стругацкие",
+    "year": "1965",
+    "cover": "https://static.tildacdn.com/path/strugatsky.jpg",
+    "category": "Фантастика",
+    "available": false,
+    "library": "Библиотека №180"
+  }
+]
